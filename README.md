@@ -1,6 +1,1 @@
-The test project
-
-![ci](https://github.com/veltzer/test/workflows/ci/badge.svg)
-# .github
-# .github
-# .github
+[![ci](https://github.com/Davidops-cmd/test/actions/workflows/ci.yml/badge.svg)](https://github.com/Davidops-cmd/test/actions/workflows/ci.yml)
