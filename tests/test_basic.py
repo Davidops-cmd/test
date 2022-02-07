@@ -9,6 +9,6 @@ class TestBasic(unittest.TestCase):
         self.assertEqual(add(100,100), 200)
     def test_fail(self):
 	self.assertEqual(add(150,100), 210)
-	print("Hello"                    +"goodbye")
+print("Hello"                    +"goodbye")
 
 
